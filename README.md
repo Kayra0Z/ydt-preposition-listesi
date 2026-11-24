@@ -13,13 +13,14 @@ Bu repo, YDT ve YDS'ye hazırlananlar için **250 kalıplık ücretsiz bir liste
 
 - [YDT preposition listesi PDF](https://englishafl.site/ydt-yds-preposition-listesi-englishafl.pdf) (149 KB)
 - [YDT preposition listesi TXT](https://github.com/Kayra0Z/ydt-preposition-listesi/releases/latest/download/ydt_preposition_listesi.txt) ve [CSV](https://github.com/Kayra0Z/ydt-preposition-listesi/releases/latest/download/ydt_preposition_listesi.csv)
+- [YDT preposition Anki destesi](https://ankiweb.net/shared/info/1734900916) (250 kart)
 - Aranabilir liste: [englishafl.site/sayfalar/ydt-preposition-listesi](https://englishafl.site/sayfalar/ydt-preposition-listesi/)
 
 Hazırlayan: Kayra Y. · [EnglishAFL](https://englishafl.site) · [Telegram kanalı](https://t.me/s/englishafl)
 
 ## In English
 
-A free list of 250 English prepositions and prepositional phrases for the YDT, YDS and YÖKDİL exams in Turkey. It is built from all 178 preposition questions in the 28 YDT and YDS papers from 2018 to 2026 (103 with prepositions as options, 75 with phrases such as "due to" and "despite"), plus the noun and adjective + preposition pairs that come up most in the reading passages. Each entry has its Turkish meaning, an example sentence and how many times it was asked. It comes as a PDF, TXT and CSV, licensed under GPLv3. The searchable list is at [englishafl.site/sayfalar/ydt-preposition-listesi](https://englishafl.site/sayfalar/ydt-preposition-listesi/).
+A free list of 250 English prepositions and prepositional phrases for the YDT, YDS and YÖKDİL exams in Turkey. It is built from all 178 preposition questions in the 28 YDT and YDS papers from 2018 to 2026 (103 with prepositions as options, 75 with phrases such as "due to" and "despite"), plus the noun and adjective + preposition pairs that come up most in the reading passages. Each entry has its Turkish meaning, an example sentence and how many times it was asked. It comes as a PDF, TXT, CSV and an Anki deck, licensed under GPLv3. The searchable list is at [englishafl.site/sayfalar/ydt-preposition-listesi](https://englishafl.site/sayfalar/ydt-preposition-listesi/).
 
 ## Liste hakkında
 
@@ -28,7 +29,7 @@ A free list of 250 English prepositions and prepositional phrases for the YDT, Y
 | Kalıp sayısı | 250 |
 | İçerik | Türkçe anlam, örnek cümle, sınavda kaç kez sorulduğu, kaç sınavda geçtiği |
 | Kaynak | ÖSYM'nin 2018–2026 arasındaki tüm YDT ve YDS sınavları (28 sınav, 178 preposition sorusu) |
-| Format | PDF, TXT, CSV |
+| Format | PDF, TXT, CSV, Anki destesi |
 | Ücret | Ücretsiz, reklamsız |
 
 ## ÖSYM preposition'ları nasıl soruyor?
