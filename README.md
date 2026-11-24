@@ -62,7 +62,7 @@ PDF'te her kalıbın altında bir örnek cümle var:
 ## Diğer listeler
 
 - [YDT Kelime Listesi (1300 kelime)](https://englishafl.site/sayfalar/ydt-kelime-listesi/): en gerekli ve önemli kelimeler, anlam ve örnek cümleleriyle.
-- [YDT Phrasal Verb Listesi (160 phrasal verb)](https://github.com/Kayra0Z/ydt-phrasal-verb-listesi): rely on, result in gibi fiil + preposition kalıplarının çoğu bu listede.
+- [YDT Phrasal Verb Listesi (160 phrasal verb)](https://englishafl.site/sayfalar/ydt-phrasal-verb-listesi/): rely on, result in gibi fiil + preposition kalıplarının çoğu bu listede.
 
 Okuma kaynakları ve Anki hakkında bilgiler [Telegram kanalımda](https://t.me/s/englishafl). Kelime, okuma ve deneme analizine dayalı çalışma sistemi: [YDT'ye nasıl çalışılır?](https://englishafl.site/sayfalar/ydt-nasil-calisilir/)
 
