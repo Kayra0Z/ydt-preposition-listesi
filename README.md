@@ -29,6 +29,7 @@ A free list of 250 English prepositions and prepositional phrases for the YDT, Y
 | Kalıp sayısı | 250 |
 | İçerik | Türkçe anlam, örnek cümle, sınavda kaç kez sorulduğu, kaç sınavda geçtiği |
 | Kaynak | ÖSYM'nin 2018–2026 arasındaki tüm YDT ve YDS sınavları (28 sınav, 178 preposition sorusu) |
+| YÖKDİL | Benzer akademik kelimeleri kullandığı için YÖKDİL'e hazırlananlar için de uygun |
 | Format | PDF, TXT, CSV, Anki destesi |
 | Ücret | Ücretsiz, reklamsız |
 
